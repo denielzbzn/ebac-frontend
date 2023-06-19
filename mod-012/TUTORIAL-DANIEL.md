@@ -11,3 +11,15 @@
 - git config --global user.email "seu email"
 - git commit -m 'nome do commit'
 - git push - para enviar os arquivos para o github
+
+## Criar novas pastas dentro do repositório github-pc
+-- No Terminal do Visual Studio Code:
+- cd {nome do repositório}
+-- Criar uma nova pasta dentro do repesitorio no visual Studio Code (manualmente)
+-- Transferir os arquivos para a pasta clonada (manualmente)
+- git status - para ver as auterações
+- git add * - para trocar os arquivos de CHANGED -> STAGED 
+- git config --global user.name "seu nome"
+- git config --global user.email "seu email"
+- git commit -m 'nome do commit'
+- git push - para enviar os arquivos para o github
